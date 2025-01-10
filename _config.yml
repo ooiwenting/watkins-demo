@@ -30,7 +30,7 @@ description: "CollectionBuilder-Sheets is a template for creating simple digital
 author: CollectionBuilder
 
 ##########
-# COLLECTION SETTINGS
+# COLLECTION SETTINGS #update with slight tweaks 
 #
 # Set the metadata for your collection 
 # This will be the full URL to your CSV file or relative path + filename of CSV in this repository 
